@@ -1,0 +1,5 @@
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+Temp/*
+$Recycle.Bin/*
